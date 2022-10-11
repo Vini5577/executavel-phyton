@@ -1,2 +1,2 @@
 # Executavel-Phyton
-Executavel criando utilizando a linguagem Phyton
+Executavel criado utilizando a linguagem Phyton
